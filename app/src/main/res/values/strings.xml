@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">salvador_DI</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="insertar">Insertar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="borrar">Borrar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="nombreserie">Nombre_serie</string>
+    <string name="año">Año</string>
+    <string name="cadena">Cadena</string>
+    <string name="temporadas">Nº temporadas</string>
+    <string name="titulo">Titulo</string>
+    <string name="temporada">Temporada</string>
+    <string name="num_capitulo">Nº cap</string>
+</resources>

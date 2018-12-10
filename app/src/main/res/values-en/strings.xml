@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">salvador_DI</string>
+    <string name="insertar">Insert</string>
+    <string name="mostrar">Show</string>
+    <string name="borrar">Erase</string>
+    <string name="cambiar">Change</string>
+    <string name="nombreserie">Series name</string>
+    <string name="año">Year</string>
+    <string name="cadena">Owner</string>
+    <string name="temporadas">Nº seasons</string>
+    <string name="titulo">Title</string>
+    <string name="temporada">Season</string>
+    <string name="num_capitulo">Nº chapter</string>
+</resources>
